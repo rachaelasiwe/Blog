@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+html,
+body{
+    margin: 0;
+    padding: 0;
+    background: #f6f6f6;
+    height: 100%;
+    /* font-family: 'Candal', sans-serif;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Raleway', sans-serif; */
+    font-family: 'Lora', serif;
+}
