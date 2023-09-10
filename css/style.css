@@ -476,6 +476,7 @@ header .logo{
         justify-content: flex-start;
         padding: 30px 20px 0;
         transform: translateY(-100vh);
+        z-index: 10;
     }
     
     header > nav.active-nav{
