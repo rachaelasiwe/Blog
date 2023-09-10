@@ -1,6 +1,6 @@
 
 const handleHam =()=>{
-    let nav = document.querySelector('nav');
+    let nav = document.querySelector ('nav');
     nav.classList.toggle('active-nav');
 
 }
